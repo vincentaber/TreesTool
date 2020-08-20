@@ -4,7 +4,6 @@ using UnityEngine;
 using UnityEditor;
 using System.Linq;
 using UnityEngine.UI;
-using Erosion;
 
 [CustomEditor(typeof(Trees_Tool))]
 public class Trees_Tool_Inspector : Editor
