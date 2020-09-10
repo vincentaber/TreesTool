@@ -8,7 +8,7 @@ using UnityEngine.UI;
 [CustomEditor(typeof(Trees_Tool))]
 public class Trees_Tool_Inspector : Editor
 {
-    bool ShowTrees = true;
+    bool ShowTrees = false;
     bool ShowDetail = false;
 
     
